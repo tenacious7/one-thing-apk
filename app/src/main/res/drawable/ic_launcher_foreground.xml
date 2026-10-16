@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Abstract organic background blob in Tangerine Orange -->
+    <path
+        android:fillColor="#FF7043"
+        android:pathData="M38,32 C50,26 68,28 74,38 C80,48 76,64 68,72 C60,80 44,78 34,70 C24,62 26,38 38,32 Z" />
+    <!-- Electric Yellow accent circle -->
+    <path
+        android:fillColor="#FFE747"
+        android:pathData="M70,30 A7,7 0 1,1 69.9,30 Z" />
+    <!-- Acid Lime mini dot -->
+    <path
+        android:fillColor="#B9E769"
+        android:pathData="M32,68 A4,4 0 1,1 31.9,68 Z" />
+    <!-- Bold Ink Black Roman Numeral / Number "1" -->
+    <path
+        android:fillColor="#191919"
+        android:pathData="M48,42 L55,36 L59,36 L59,70 L51,70 L51,43 L48,45 Z" />
+    <!-- Base serif bar for "1" -->
+    <path
+        android:fillColor="#191919"
+        android:pathData="M44,70 L66,70 L66,74 L44,74 Z" />
+</vector>

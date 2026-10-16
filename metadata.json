@@ -1,0 +1,6 @@
+{
+  "name": "ONE THING",
+  "description": "A minimal, premium daily focused learning app inspired by contemporary art magazines. Pick one skill every day, complete a 5-minute action, and build your growth streak.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
